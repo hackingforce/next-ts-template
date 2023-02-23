@@ -13,11 +13,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hackingforce/hackingforce.com.br" target="_blank">
+  <a href="https://github.com/hackingforce/next-ts-template" target="_blank">
     <img src="https://img.shields.io/github/stars/hackingforce/next-ts-template" alt="Stargazers" />
   </a>
-  <a href="https://github.com/hackingforce/hackingforce.com.br" target="_blank">
+  <a href="https://github.com/hackingforce/next-ts-template" target="_blank">
     <img src="https://img.shields.io/github/issues/hackingforce/next-ts-template" alt="Issues" />
+  </a>
+  <a href="https://github.com/hackingforce/next-ts-template" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/hackingforce/next-ts-template" alt="Pull Requests" />
   </a>
 </p>
 
